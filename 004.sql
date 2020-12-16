@@ -1,0 +1,1 @@
+SELECT first_name,last_name,salary,ROUND(salary*15/100) AS PF FROM employees;

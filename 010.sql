@@ -1,0 +1,1 @@
+SELECT Count(DISTINCT(job_id)) FROM employees;
